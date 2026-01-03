@@ -2,13 +2,12 @@
 
 ### About me 🌊
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=I'm+Huy+Bao;I'm+currently+studying+at+VNU_HCM+UIT;Major+Computer+Science;I'm+a+Frontend+developer" alt="Typing SVG" />
-  </a>
-</div>
-
----
+```yaml
+I'm Huy Bao
+I'm currently studying at VNU_HCM UIT 
+Major Computer Science
+I'm a Frontend developer 
+```
 
 ## 🛠 Tech Stack
 
