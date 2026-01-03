@@ -2,12 +2,11 @@
 
 ### About me 🌊
 
-```yaml
-I'm Huy Bao
-I'm currently studying at VNU_HCM UIT 
-Major Computer Science
-I'm a Frontend developer 
-```
+<div align="center">
+  <a href="https://typing-svg.vercel.app/">
+    <img src="https://typing-svg.vercel.app/api?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=I'm+Huy+Bao;I'm+currently+studying+at+VNU_HCM+UIT;Major+Computer+Science;I'm+a+Frontend+developer&center=true&vCenter=true&multiline=true" alt="Typing SVG" />
+  </a>
+</div>
 
 ## 🛠 Tech Stack
 
